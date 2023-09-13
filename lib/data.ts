@@ -80,6 +80,7 @@ export const projectsData = [
       "Plant identification platform built so that users can upload images for AI driven plant identification and get information about the identified plants.",
     tags: ["MongoDB", "Express.js", "React", "Node.js"],
     imageUrl: plantify,
+    projectUrl: "https://github.com/nicoviarnes/plant-id"
   },
   {
     title: "Path of Exile Currency Monitor",
@@ -87,6 +88,7 @@ export const projectsData = [
       "Tool to parse data from the Path Of Exile trade API, offering realtime currency exchange rates and highlighting profitable trades.",
     tags: ["Angular", "Node.js", "MySQL", "AWS"],
     imageUrl: poe,
+    projectUrl: "https://github.com/nicoviarnes/Pooblah.io"
   },
   {
     title: "Cycle of the Wolf",
@@ -94,6 +96,7 @@ export const projectsData = [
       "MiniJam 136 entry. A short 'survivors' style game featuring a shapeshifting werewolf. 4th place in MiniJam 136: Cycles, built in under 72 hours.",
     tags: ["Godot", "GDScript", "Aseprite", "Itch.io"],
     imageUrl: godot1,
+    projectUrl: "https://github.com/nicoviarnes/werewolfgame"
   },
   {
     title: "Islands of Fortune",
@@ -101,6 +104,7 @@ export const projectsData = [
       "Challenging puzzle game built in one weekend for MiniJam 134: Islands.",
     tags: ["Godot", "GDScript", "Aseprite", "Itch.io"],
     imageUrl: godot2,
+    projectUrl: "https://github.com/nicoviarnes/"
   },
   {
     title: "Cupcake Match",
@@ -108,6 +112,7 @@ export const projectsData = [
       "Simple memory match game built to learn the new features of Godot 4.0 and GDScript 2.0.",
     tags: ["Godot", "GDScript", "Aseprite", "Itch.io"],
     imageUrl: godot4,
+    projectUrl: "https://github.com/nicoviarnes/"
   },
   {
     title: "Praying for Rain",
@@ -115,6 +120,7 @@ export const projectsData = [
       "Point & click action game made in two days for MiniJam 110: Sacrifice.",
     tags: ["Godot", "GDScript", "Aseprite", "Itch.io"],
     imageUrl: godot3,
+    projectUrl: "https://github.com/nicoviarnes/"
   },
   {
     title: "Deck Delvers",
@@ -122,6 +128,7 @@ export const projectsData = [
       "Vampire Survivors style game built in 72 hours for MiniJam 109: Depths.",
     tags: ["Godot", "GDScript", "Aseprite", "Itch.io"],
     imageUrl: godot5,
+    projectUrl: "https://github.com/nicoviarnes/"
   },
   {
     title: "Breakneck Beach",
@@ -129,6 +136,7 @@ export const projectsData = [
       "First game project published to itch.io for MiniJam 108: Seaside, built using Godot & GDScript in less than three days.",
     tags: ["Godot", "GDScript", "Aseprite", "Itch.io"],
     imageUrl: godot6,
+    projectUrl: "https://github.com/nicoviarnes/"
   },
 ] as const;
 
