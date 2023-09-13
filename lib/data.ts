@@ -77,7 +77,7 @@ export const projectsData = [
   {
     title: "Plantify.io",
     description:
-      "Plant identification platform built so that ussers can upload images for AI driven plant identification and get information about the identified plants.",
+      "Plant identification platform built so that users can upload images for AI driven plant identification and get information about the identified plants.",
     tags: ["MongoDB", "Express.js", "React", "Node.js"],
     imageUrl: plantify,
   },
